@@ -1,0 +1,66 @@
+body {
+	background-color: #ecf2f9;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 16px;
+	color: #333;
+	line-height: 1.5;
+	margin: 0 auto;
+	text-decoration: none;
+}
+#title {
+	font-size: 36px;
+    text-align: center;
+}
+p {
+	text-align: center;
+    opacity: 0.9;
+}
+#img-div {
+	background-color: #fff;
+	padding: 10px;
+	margin: 10px;
+}
+#image {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+#img-caption {
+	text-align: center;
+	opacity: 0.9;
+	font-size: 15px;
+}
+#timeline {
+	text-align: center;
+}
+#tribute-info ul {
+	max-width: 550px;
+    margin: 0px auto 50px auto;
+}
+#tribute-info ul li {
+	margin: 16px 0;
+	text-align: justify;
+	font-size: 14px;
+	opacity: 0.9;
+	line-height: 1.8;
+}
+blockquote {
+	max-width: 550px;
+    margin: 0 auto 50px auto;
+    opacity: 0.8;
+}
+blockquote p {
+	font-style: italic;
+	text-align: left;
+}
+
+#tribute-info h3 {
+	text-align: center;
+    font-size: 17px;
+    margin: 50px 0;
+}
+
+@media (max-width: 645px)
+
